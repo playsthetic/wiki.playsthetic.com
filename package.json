@@ -7,5 +7,9 @@
         "dev": "vitepress dev",
         "build": "vitepress build",
         "preview": "vitepress preview"
+    },
+    "dependencies": {
+        "@sentry/vite-plugin": "^5.4.0",
+        "@sentry/vue": "^10.74.0"
     }
 }
